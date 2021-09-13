@@ -61,8 +61,3 @@ optional arguments:
 # Report sample
 ![Report_Sample](report_sample.png?raw=true "Report Sample")
 
-
-## Meta
-Moath Maharmeh - [@iomoaaz](https://twitter.com/iomoaaz) - moath@vegalayer.com
-
-https://github.com/iomoath/web-log-analyzer
